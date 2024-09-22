@@ -41,9 +41,9 @@ This is the file that Hadoop will use as input for the WordCount example. Create
 touch data.txt
 Add the following content to data.txt:
 
-Italy Venice
-Italy Pizza
-Pizza Pasta Gelato
+IBM BigData MapReduce
+MapReduce
+Hadoop BigData
 
 4. Build the Docker Image
 To build the Docker image with Hadoop and the input file, run the following command in your terminal:
@@ -75,8 +75,7 @@ cat output/part-r-00000
 The expected output should be:
 
 
-Gelato  1
-Italy   2
-Pasta   1
-Pizza   2
-Venice  1
+BigData 2
+Hadoop 1
+IBM 1
+MapReduce 2
