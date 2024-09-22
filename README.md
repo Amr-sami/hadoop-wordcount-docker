@@ -102,4 +102,4 @@ MapReduce 2
 ### 8. Visual Representation of the MapReduce Process
 Here is a visual representation of the MapReduce process for the `data.txt` input:
 
-![MapReduce Process](A_visual_representation_of_a_MapReduce_process_usi.png)
+![MapReduce Process](map_reduce_picture_rep.png)
